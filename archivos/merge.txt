@@ -1,3 +1,7 @@
 Tomás Gómez Cardona
 18 años
 Aspiro a mejorar como progrmador y avanzar en mi carrera
+Porque ahora la carpeta archivo contiene un archivo de texto
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+ES muy peligroso modificar un mismo archuvo al mismo  tiempo pues se toma el riesgo de que el archivo se corrompa, se pierdan avances y hayan confusiones que atrasan la creación de un proyecto
